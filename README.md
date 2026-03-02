@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Facial Emotion Detection
 
 ## Overview
@@ -13,3 +14,7 @@ A real-time computer vision system that detects faces and predicts emotions (Ang
 1. Install dependencies: `pip install -r requirements.txt`
 2. Train the model: `python main.py --mode train`
 3. Run real-time inference: `python main.py --mode live`
+=======
+# Facial-Emotion-Detection
+ml project
+>>>>>>> 45ab152f21aa2c984bda68871549abc5fbcaa793
