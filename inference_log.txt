@@ -1,0 +1,2 @@
+Camera opened successfully. Starting loop.
+Inference finished successfully.
